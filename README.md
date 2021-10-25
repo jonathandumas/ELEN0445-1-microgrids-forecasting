@@ -9,7 +9,7 @@ Lectures on point and probabilistic forecasting given in the Microgrids course a
 )
 
 This intervention is composed of two lectures:
-* The [first lecture](https://github.com/jonathandumas/ELEN0445-1-microgrids-forecasting/blob/927d1f6caa58b43593f4ef9987de800574798673/pdf/2020-ELEN0445-1-microgrids-forecasting-lesson-1.pdf) presents the forecasting basics.
+* The [first lecture](https://github.com/jonathandumas/ELEN0445-1-microgrids-forecasting/blob/2b91cfc1b637b2ff17b13786b2407df66b6ac485/pdf/ELEN0445-1-microgrids-forecasting-lesson-1-2021.pdf) presents the forecasting basics and the point-forecasts.
 * The [second lecture](https://github.com/jonathandumas/ELEN0445-1-microgrids-forecasting/blob/927d1f6caa58b43593f4ef9987de800574798673/pdf/2020-ELEN0445-1-microgrids-forecasting-lesson-2.pdf) introduces probabilistic forecasts. 
 
 Note:
