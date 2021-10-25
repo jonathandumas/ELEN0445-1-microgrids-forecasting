@@ -18,9 +18,10 @@ Note:
 
 # References to go further
 
-Lectures of Pierre Pinson (Pierre Pinson is internationally recognized as a leading academic in forecasting, (stochastic) optimization and game theory for energy systems and markets, thanks to his multidisciplinary expertise in Operations Research and Management Science, Statistics, Economics, Meteorology and Energy/Electrical Engineering.)
-* The free online lectures of Professor Pierre Pinson: [Renewables in Electricity Markets](http://pierrepinson.com/index.php/teaching/), in particular the modules 8, 9, and 10.
+Lectures of Professor Pierre Pinson. :
+* [Renewables in Electricity Markets](http://pierrepinson.com/index.php/teaching/), in particular the modules 8, 9, and 10.
 * [Statistical and Machine Learning for Forecasting](https://youtu.be/e7uMRluA01M) during the DTU CEE Summer School 2019 on "Data-Driven Analytics and Optimization for Energy Systems", 17-21 June 2019, Copenhagen, Denmark.
+Note: Pierre Pinson is internationally recognized as a leading academic in forecasting, (stochastic) optimization and game theory for energy systems and markets, thanks to his multidisciplinary expertise in Operations Research and Management Science, Statistics, Economics, Meteorology and Energy/Electrical Engineering
 
 The book:
 ```
