@@ -20,7 +20,7 @@ Note:
 
 [Description of the forecasting assignement](https://github.com/jonathandumas/ELEN0445-1-microgrids-forecasting/blob/f6c4019274fd17f17e8c3329fffa8ed88917dcd8/pdf/ELEN0445-1-microgrids-forecasting-assignement-2021.pdf).
 
-The Python code to download.
+The Python code to download is in the "assingment_files" directory.
 
 # References to dig the topic :)
 
