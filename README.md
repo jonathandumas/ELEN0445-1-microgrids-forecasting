@@ -16,6 +16,11 @@ Note:
 * General information about this class can be found on the [ULiège website](https://www.programmes.uliege.be/cocoon/20202021/en/cours/ELEN0445-1.html). 
 * The agenda of the course is provided on [Bertrand cornélusse github](https://github.com/bcornelusse/ELEN0445-microgrids).
 
+# Forecasting assignment
+
+[Description of the forecasting assignement]().
+The Python code to download.
+
 # References to go further
 
 Lectures of Professor Pierre Pinson. :
