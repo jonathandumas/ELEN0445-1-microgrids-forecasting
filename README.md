@@ -9,7 +9,7 @@ Lectures on point and probabilistic forecasting given in the Microgrids course a
 )
 
 This intervention is composed of two lectures:
-* The [first lecture pdf](https://github.com/jonathandumas/ELEN0445-1-microgrids-forecasting/blob/2b91cfc1b637b2ff17b13786b2407df66b6ac485/pdf/ELEN0445-1-microgrids-forecasting-lesson-1-2021.pdf) presents the forecasting basics and the point-forecasts [video 27-10-2021](https://youtu.be/NqezU_J1JQs).
+* The first lecture presents the forecasting basics and the point-forecasts, [pdf](https://github.com/jonathandumas/ELEN0445-1-microgrids-forecasting/blob/2b91cfc1b637b2ff17b13786b2407df66b6ac485/pdf/ELEN0445-1-microgrids-forecasting-lesson-1-2021.pdf) and [video 27-10-2021](https://youtu.be/NqezU_J1JQs).
 * The [second lecture pdf](https://github.com/jonathandumas/ELEN0445-1-microgrids-forecasting/blob/27fcc893882f572d37a953b6a301e1a4f7671e83/pdf/ELEN0445-1-microgrids-forecasting-lesson-2-2021.pdf) introduces probabilistic forecasts. 
 
 Note:
@@ -18,7 +18,7 @@ Note:
 
 # Forecasting assignment
 
-[Description of the forecasting assignement](https://github.com/jonathandumas/ELEN0445-1-microgrids-forecasting/blob/f6c4019274fd17f17e8c3329fffa8ed88917dcd8/pdf/ELEN0445-1-microgrids-forecasting-assignement-2021.pdf).
+Description of the forecasting assignement [pdf](https://github.com/jonathandumas/ELEN0445-1-microgrids-forecasting/blob/f6c4019274fd17f17e8c3329fffa8ed88917dcd8/pdf/ELEN0445-1-microgrids-forecasting-assignement-2021.pdf) and [video](https://youtu.be/dFf2P2RDcZY).
 
 The Python code to download is in the "assingment_files" directory.
 
