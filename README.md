@@ -22,6 +22,11 @@ Description of the forecasting assignement [pdf](https://github.com/jonathanduma
 
 The Python code to download is in the "assingment_files" directory.
 
+Instructions:
+* write a short report (4 pages max) per group;
+* present (15 minutes max) the assignment on Wednesday, 08/12;
+* there is no need to prepare specific slides (you can if you want, but it is not required), and you can directly use the report and highlights the main key points and answers.
+
 # References to dig the topic :)
 
 Lectures of Professor Pierre Pinson. :
